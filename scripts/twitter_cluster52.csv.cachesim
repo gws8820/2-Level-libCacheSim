@@ -1,0 +1,104 @@
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 3.20 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 3.03 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2039, throughput 2.40 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.44 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 3.15 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 3.22 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2037, throughput 2.73 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.55 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 3.21 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 2.59 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2039, throughput 2.45 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.29 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 3.16 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 3.27 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2038, throughput 2.76 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.47 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 3.40 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 3.38 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2039, throughput 2.94 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.25 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 2.81 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 2.89 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2038, throughput 2.31 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.14 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 2.97 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 3.10 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2040, throughput 2.62 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.16 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 2.87 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 2.88 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2038, throughput 2.35 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.06 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 2.54 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 3.11 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2039, throughput 2.74 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.03 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 3.15 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 3.12 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2038, throughput 2.76 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.32 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 2.76 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 3.28 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2038, throughput 2.73 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.42 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 2.81 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 2.69 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2038, throughput 2.48 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.14 MQPS
+
+../data/twitter_cluster52.csv FIFO cache size     3MiB,          1000000 req, miss ratio 0.2328, throughput 2.87 MQPS
+
+../data/twitter_cluster52.csv LRU cache size     3MiB,          1000000 req, miss ratio 0.2091, throughput 2.68 MQPS
+
+../data/twitter_cluster52.csv LeCaR cache size     3MiB,          1000000 req, miss ratio 0.2037, throughput 2.60 MQPS
+
+../data/twitter_cluster52.csv S3FIFO-0.1000-2 cache size     3MiB,          1000000 req, miss ratio 0.1877, throughput 2.40 MQPS
+
