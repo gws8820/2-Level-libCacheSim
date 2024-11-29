@@ -45,7 +45,7 @@ cd scripts && bash install_dependency.sh && bash install_libcachesim.sh
 ### Build libCacheSim
 cmake recommends **out-of-source build**, so we do it in a new directory:
 ```bash
-git clone https://github.com/gws8820/2-level-libCacheSim
+git clone https://github.com/gws8820/2-Level-libCacheSim
 pushd libCacheSim
 mkdir _build && cd _build
 cmake .. && make -j
