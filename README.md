@@ -34,7 +34,6 @@ libCachesim supports the following algorithms:
 
 
 ## Build and Install
-<!-- TOC --><a name="one-line-install"></a>
 ### One-line install
 We provide some scripts for quick installation of libCacheSim. 
 ```bash
